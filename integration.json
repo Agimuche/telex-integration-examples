@@ -1,0 +1,7 @@
+{
+    "name": "Auto-Translate Bot",
+    "description": "Automatically translates messages into French",
+    "type": "modifier",
+    "endpoint_url": "https://your-deployed-url.com/process_message",
+    "api_key": "your-api-key"
+}
